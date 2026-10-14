@@ -9,6 +9,6 @@ struct _pixel
 	int x;
 	int y;
 };
-tyedef struct _pixel Pixel;
+typedef struct _pixel Pixel;
 
 #endif
